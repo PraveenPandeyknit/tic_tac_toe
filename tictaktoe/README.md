@@ -1,24 +1,6 @@
-# README
+Ruby Version : ruby 2.2.6p396 (2016-11-15 revision 56800) [i386-mingw32]
+Rails Version : Rails 5.0.7
+Database : Redis, mysql2
+Bundler : Bundler version 1.16.6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
