@@ -23,3 +23,5 @@ Few points to consider :
 4- Observe the coffeescripts and the models defined and the actions they are responsible for.
 
 5- The UI design and Javascript has been copied from drifferent sources. You can check the sugar.js and animate.css in vendor directory.
+
+I have attached two screenshots of the the screens for two players playing on adjacent tabs on same browser.
